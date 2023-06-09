@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gabinete_desinfeccion</string>
+    <string name="pausar">PAUSAR</string>
+    <string name="detener">DETENER</string>
+    <string name="iniciar">INICIAR</string>
+</resources>
